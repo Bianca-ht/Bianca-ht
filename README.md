@@ -1,13 +1,13 @@
 ## Olá, Eu sou Bianca Alves :woman_technologist:
 
-:pushpin: Sou de Ribeirão Preto, SP  :brazil:
-:blue_book: Estudante de Análise e Desenvolvimento de Sistemas e Web
-:mag_right: Em busca de conhecimento
+:pushpin: Sou de Ribeirão Preto, SP  :brazil: <br />
+:blue_book: Estudante de Análise e Desenvolvimento de Sistemas e Web <br />
+:mag_right: Em busca de conhecimento <br />
 
 
 
 
-⚡  **Conhecimentos :** 
- 📦
-🧰  **Ferramentas:**
+⚡  **Conhecimentos :** <br />
+ 📦 <br />
+🧰  **Ferramentas:** <br />
 
