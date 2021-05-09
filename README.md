@@ -8,11 +8,11 @@
 
 
 ⚡  **Conhecimentos :** <br />
-  <em> :orange_circle: Html <br /><em/>
-  <em> :large_blue_circle: Css <br /><em/>
+  <em> :orange_circle: Html <br /></em>
+  <em> :large_blue_circle: Css <br /></em>
    
   :heavy_check_mark: **Framework:** <br />
-     <em> :purple_circle: bootstrap <br /><em/>
+     <em> :purple_circle: bootstrap <br /></em>
 
 
  🧰  **Ferramentas:** <br />
