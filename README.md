@@ -11,8 +11,8 @@
    Html <br />
    Css <br />
    
-   **Framework:** <br />
-    bootstrap <br />
+  :ballot_box_with_check: **Framework:** <br />
+     :purple_circle: bootstrap <br />
 
 
  🧰  **Ferramentas:** <br />
