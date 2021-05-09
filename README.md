@@ -15,5 +15,5 @@
      <em> :purple_circle: bootstrap <br /></em>
 
 
- 🧰  **Ferramentas:** <br />
+
 
