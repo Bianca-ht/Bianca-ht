@@ -8,6 +8,12 @@
 
 
 ⚡  **Conhecimentos :** <br />
- 📦 <br />
-🧰  **Ferramentas:** <br />
+   Html
+   Css
+   
+    **Framework:** <br />
+    bootstrap
+
+
+ 🧰  **Ferramentas:** <br />
 
