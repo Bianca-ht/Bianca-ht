@@ -8,11 +8,11 @@
 
 
 ⚡  **Conhecimentos :** <br />
-   Html
-   Css
+   Html <br />
+   Css <br />
    
-    **Framework:** <br />
-    bootstrap
+   **Framework:** <br />
+    bootstrap <br />
 
 
  🧰  **Ferramentas:** <br />
