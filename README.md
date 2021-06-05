@@ -7,14 +7,17 @@ Sou de Ribeirão Preto, SP-Brasil  <br />
 
 
 
-⚡  **Conhecimentos :** <br />
-     -  Html <br />
-     -   Css <br />
-     -   PHP <br />
+```  Conhecimentos :```
+```
+ -   Html 
+       -  Css 
+           -   PHP 
+  ```
+  
+ ``` Framework: ```
    
-  ⚡  **Framework:** <br />
-     -  bootstrap <br />
+     bootstrap 
 
-
+   
 
 
