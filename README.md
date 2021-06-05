@@ -18,6 +18,6 @@ Sou de Ribeirão Preto, SP-Brasil  <br />
    
      bootstrap 
 
-   
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-alvessilva/)](https://www.linkedin.com/in/bianca-alvessilva/)
 
 
