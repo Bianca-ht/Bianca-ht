@@ -1,7 +1,7 @@
 ## Olá, Eu sou Bianca Alves :woman_technologist:
 
 Sou de Ribeirão Preto, SP-Brasil  <br />
-:blue_book: Estudante de Java <br />
+:blue_book: Java language student <br />
 :mag_right: Em busca de conhecimento <br />
 
 
