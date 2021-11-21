@@ -1,7 +1,5 @@
 ## Olá, Eu sou Bianca Alves :woman_technologist:
 
-Sou de Ribeirão Preto, SP-Brasil  <br />
-:mag_right: Em busca de conhecimento... <br />
 Student: <br />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> 
