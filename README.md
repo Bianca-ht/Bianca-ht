@@ -5,8 +5,8 @@ Student: <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> 
 
 Conhecimentos : HTML - CSS - JAVA  <br />
-IDE'S : NETBEANS <br />
-EDITOR DE TEXTO: NOTEPAD++ | SUBLIME TEXT <br />
+Edito de nota: Notepad++ | Sublime texr <br />
+IDE'S : java
 
 
 #### Contatos:
